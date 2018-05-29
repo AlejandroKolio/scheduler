@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisProjectProfileManager">
+    <option name="PROJECT_PROFILE" value="Project Default" />
+    <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+    <scopes />
+    <profiles>
+      <profile profile_name="Project Default" version="1.0" is_locked="false">
+        <coding_rule class="AbstractClassNameCheck" level="MAJOR" enabled="false">
+          <param name="ignoreModifier" value="false" />
+          <param name="ignoreName" value="false" />
+        </coding_rule>
+        <coding_rule class="AnnotationUseStyleCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="AnonInnerLengthCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ArrayTrailingCommaCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ArrayTypeStyleCheck" level="INFO" enabled="false" />
+        <coding_rule class="AvoidInlineConditionalsCheck" level="INFO" enabled="false" />
+        <coding_rule class="AvoidNestedBlocksCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="AvoidStarImportCheck" level="MAJOR" enabled="true">
+          <param name="allowClassImports" value="false" />
+          <param name="allowStaticMemberImports" value="false" />
+        </coding_rule>
+        <coding_rule class="AvoidStaticImportCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="BooleanExpressionComplexityCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ClassDataAbstractionCouplingCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ClassFanOutComplexityCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ClassTypeParameterNameCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ConstantNameCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="CovariantEqualsCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="CyclomaticComplexityCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="DeclarationOrderCheck" level="BLOCKER" enabled="true">
+          <param name="ignoreConstructors" value="false" />
+          <param name="ignoreMethods" value="false" />
+          <param name="ignoreModifiers" value="false" />
+        </coding_rule>
+        <coding_rule class="DefaultComesLastCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="DescendantTokenCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="DesignForExtensionCheck" level="INFO" enabled="false" />
+        <coding_rule class="EmptyBlockCheck" level="MAJOR" enabled="true">
+          <param name="tokens" value="LITERAL_CATCH, LITERAL_DO, LITERAL_ELSE, LITERAL_FINALLY, LITERAL_IF, LITERAL_TRY" />
+        </coding_rule>
+        <coding_rule class="EmptyForInitializerPadCheck" level="INFO" enabled="false" />
+        <coding_rule class="EmptyForIteratorPadCheck" level="BLOCKER" enabled="true">
+          <param name="option" value="space" />
+        </coding_rule>
+        <coding_rule class="EmptyStatementCheck" level="INFO" enabled="false" />
+        <coding_rule class="EqualsAvoidNullCheck" level="BLOCKER" enabled="true">
+          <param name="ignoreEqualsIgnoreCase" value="false" />
+        </coding_rule>
+        <coding_rule class="EqualsHashCodeCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="ExecutableStatementCountCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ExplicitInitializationCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="FallThroughCheck" level="BLOCKER" enabled="true">
+          <param name="checkLastCaseGroup" value="true" />
+        </coding_rule>
+        <coding_rule class="FileLengthCheck" level="INFO" enabled="true">
+          <param name="fileExtensions" value="java" />
+        </coding_rule>
+        <coding_rule class="FileTabCharacterCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="FinalClassCheck" level="INFO" enabled="true" />
+        <coding_rule class="FinalLocalVariableCheck" level="INFO" enabled="false" />
+        <coding_rule class="FinalParametersCheck" level="INFO" enabled="false" />
+        <coding_rule class="GenericWhitespaceCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="HeaderCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="HiddenFieldCheck" level="BLOCKER" enabled="true">
+          <param name="ignoreConstructorParameter" value="true" />
+          <param name="ignoreSetter" value="true" />
+        </coding_rule>
+        <coding_rule class="HideUtilityClassConstructorCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="IllegalCatchCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="IllegalImportCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="IllegalInstantiationCheck" level="INFO" enabled="true" />
+        <coding_rule class="IllegalThrowsCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="IllegalTokenCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="IllegalTokenTextCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="IllegalTypeCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ImportControlCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ImportOrderCheck" level="INFO" enabled="false" />
+        <coding_rule class="IndentationCheck" level="INFO" enabled="false" />
+        <coding_rule class="InnerAssignmentCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="InnerTypeLastCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="InterfaceIsTypeCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="JUnitTestCaseCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="JavaNCSSCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="JavadocMethodCheck" level="BLOCKER" enabled="true">
+          <param name="allowMissingPropertyJavadoc" value="true" />
+        </coding_rule>
+        <coding_rule class="JavadocPackageCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="JavadocStyleCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="JavadocTypeCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="JavadocVariableCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="LeftCurlyCheck" level="MAJOR" enabled="true">
+          <param name="maxLineLength" value="120" />
+        </coding_rule>
+        <coding_rule class="LineLengthCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="LocalFinalVariableNameCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="LocalVariableNameCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="MagicNumberCheck" level="INFO" enabled="true">
+          <param name="ignoreHashCodeMethod" value="false" />
+          <param name="ignoreAnnotation" value="false" />
+        </coding_rule>
+        <coding_rule class="MemberNameCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="MethodCountCheck" level="MAJOR" enabled="false">
+          <param name="maxTotal" value="100" />
+          <param name="maxPrivate" value="100" />
+          <param name="maxPackage" value="100" />
+          <param name="maxProtected" value="100" />
+          <param name="maxPublic" value="100" />
+        </coding_rule>
+        <coding_rule class="MethodLengthCheck" level="INFO" enabled="true" />
+        <coding_rule class="MethodNameCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="MethodParamPadCheck" level="BLOCKER" enabled="true">
+          <param name="tokens" value="CTOR_DEF,LITERAL_NEW,METHOD_DEF,SUPER_CTOR_CALL" />
+        </coding_rule>
+        <coding_rule class="MethodTypeParameterNameCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="MissingCtorCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="MissingDeprecatedCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="MissingOverrideCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="MissingSwitchDefaultCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="ModifiedControlVariableCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ModifierOrderCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="MultipleStringLiteralsCheck" level="INFO" enabled="true">
+          <param name="ignoreOccurrenceContext" value="ANNOTATION,PLUS" />
+          <param name="ignoreStringsRegexp" value="^\&quot;(?:.|\\{1,2}.|\W{2}|([\'\&quot;]).\1|\$\d+|\{\d+\}|.* .*)?\&quot;$" />
+        </coding_rule>
+        <coding_rule class="MultipleVariableDeclarationsCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="MutableExceptionCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="NPathComplexityCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="NeedBracesCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="NestedForDepthCheck" level="MAJOR" enabled="false">
+          <param name="max" value="1" />
+        </coding_rule>
+        <coding_rule class="NestedIfDepthCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="NestedTryDepthCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="NewlineAtEndOfFileCheck" level="BLOCKER" enabled="true">
+          <param name="lineSeparator" value="lf_cr_crlf" />
+        </coding_rule>
+        <coding_rule class="NoCloneCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="NoFinalizerCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="NoWhitespaceAfterCheck" level="BLOCKER" enabled="true">
+          <param name="tokens" value="BNOT,DEC,DOT,INC,UNARY_MINUS,UNARY_PLUS" />
+        </coding_rule>
+        <coding_rule class="NoWhitespaceBeforeCheck" level="INFO" enabled="false">
+          <param name="allowLineBreaks" value="true" />
+        </coding_rule>
+        <coding_rule class="OneStatementPerLineCheck" level="INFO" enabled="false" />
+        <coding_rule class="OperatorWrapCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="OuterTypeFilenameCheck" level="INFO" enabled="false" />
+        <coding_rule class="OuterTypeNumberCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="PackageAnnotationCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="PackageDeclarationCheck" level="BLOCKER" enabled="true">
+          <param name="ignoreDirectoryName" value="false" />
+        </coding_rule>
+        <coding_rule class="PackageNameCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="ParameterAssignmentCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ParameterNameCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="ParameterNumberCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="ParenPadCheck" level="INFO" enabled="false">
+          <param name="tokens" value="CTOR_CALL, METHOD_CALL, SUPER_CTOR_CALL" />
+          <param name="option" value="space" />
+        </coding_rule>
+        <coding_rule class="RedundantImportCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="RedundantModifierCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="RedundantThrowsCheck" level="INFO" enabled="false" />
+        <coding_rule class="RegexpCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="RegexpHeaderCheck" level="BLOCKER" enabled="true">
+          <param name="fileExtensions" value="java" />
+          <param name="header" value="^/\*$\n ?^ \*$\n ?^ \* =======================================================================$\n ?^ \*$\n ?^ \* Copyright \(c\) \d\d\d\d( ?- ?\d\d\d\d)? Sony Network Entertainment International, LLC\. All rights reserved\.$\n ?^ \*$\n ?^ \* This software is the confidential and proprietary information of$\n ?^ \* Sony Network Entertainment International, LLC\.$\n ?^ \* You shall not disclose such Confidential Information and shall use it only in$\n ?^ \* accordance with the terms of the license agreement you entered into with$\n ?^ \* Sony Network Entertainment International, LLC\.$\n ?^ \*$\n ?^ \* =======================================================================$\n ?^ \*$\n ?^ \* For more information, please see http://www\.sony\.com/SCA/outline/corporation\.shtml$\n ?^ \*$\n ?^ \*/$" />
+          <param name="headerFile" value="^/\*$\n ?^ \*$\n ?^ \* =======================================================================$\n ?^ \*$\n ?^ \* Copyright \(c\) \d\d\d\d( ?- ?\d\d\d\d)? Sony Network Entertainment International, LLC\. All rights reserved\.$\n ?^ \*$\n ?^ \* This software is the confidential and proprietary information of$\n ?^ \* Sony Network Entertainment International, LLC\.$\n ?^ \* You shall not disclose such Confidential Information and shall use it only in$\n ?^ \* accordance with the terms of the license agreement you entered into with$\n ?^ \* Sony Network Entertainment International, LLC\.$\n ?^ \*$\n ?^ \* =======================================================================$\n ?^ \*$\n ?^ \* For more information, please see http://www\.sony\.com/SCA/outline/corporation\.shtml$\n ?^ \*$\n ?^ \*/$" />
+        </coding_rule>
+        <coding_rule class="RegexpMultilineCheck" level="MAJOR" enabled="false">
+          <param name="message" value="TODO item found" />
+          <param name="minimum" value="0" />
+          <param name="maximum" value="0" />
+          <param name="format" value="TODO" />
+          <param name="ignoreCase" value="true" />
+        </coding_rule>
+        <coding_rule class="RegexpSinglelineCheck" level="MAJOR" enabled="true">
+          <param name="message" value="Automatic class JavaDoc comment." />
+          <param name="minimum" value="0" />
+          <param name="maximum" value="0" />
+          <param name="fileExtensions" value="java" />
+          <param name="format" value="^ \* The Class \w+\.$" />
+          <param name="ignoreCase" value="true" />
+        </coding_rule>
+        <coding_rule class="RegexpSinglelineJavaCheck" level="MAJOR" enabled="false">
+          <param name="message" value="TODO item found" />
+          <param name="minimum" value="0" />
+          <param name="maximum" value="0" />
+          <param name="ignoreComments" value="false" />
+          <param name="format" value="TODO" />
+          <param name="ignoreCase" value="true" />
+        </coding_rule>
+        <coding_rule class="RequireThisCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="ReturnCountCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="RightCurlyCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="SimplifyBooleanExpressionCheck" level="MAJOR" enabled="true" />
+        <coding_rule class="SimplifyBooleanReturnCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="StaticVariableNameCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="StrictDuplicateCodeCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="StringLiteralEqualityCheck" level="INFO" enabled="true" />
+        <coding_rule class="SuperCloneCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="SuperFinalizeCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="SuppressWarningsCheck" level="INFO" enabled="true">
+          <param name="format" value="^(|all|deprecation|unchecked|serial|finally|fallthrough)$" />
+        </coding_rule>
+        <coding_rule class="ThrowsCountCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="TodoCommentCheck" level="INFO" enabled="true">
+          <param name="format" value="@SuppressWarnings\b|\bCHECKSTYLE\b" />
+        </coding_rule>
+        <coding_rule class="TrailingCommentCheck" level="INFO" enabled="false" />
+        <coding_rule class="TranslationCheck" level="INFO" enabled="false" />
+        <coding_rule class="TypeNameCheck" level="BLOCKER" enabled="true" />
+        <coding_rule class="TypecastParenPadCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="UncommentedMainCheck" level="MAJOR" enabled="false" />
+        <coding_rule class="UnnecessaryParenthesesCheck" level="INFO" enabled="false" />
+        <coding_rule class="UnusedImportsCheck" level="MAJOR" enabled="true">
+          <param name="processJavadoc" value="false" />
+        </coding_rule>
+        <coding_rule class="UpperEllCheck" level="INFO" enabled="true" />
+        <coding_rule class="VisibilityModifierCheck" level="BLOCKER" enabled="true">
+          <param name="protectedAllowed" value="true" />
+        </coding_rule>
+        <coding_rule class="WhitespaceAfterCheck" level="BLOCKER" enabled="true">
+          <param name="tokens" value="COMMA,SEMI" />
+        </coding_rule>
+        <coding_rule class="WhitespaceAroundCheck" level="BLOCKER" enabled="true">
+          <param name="tokens" value="ASSIGN,BAND,BAND_ASSIGN,BOR,BOR_ASSIGN,BSR,BSR_ASSIGN,BXOR,BXOR_ASSIGN,COLON,DIV,DIV_ASSIGN,EQUAL,GE,GT,LAMBDA,LAND,LE,LITERAL_ASSERT,LITERAL_CATCH,LITERAL_DO,LITERAL_ELSE,LITERAL_FINALLY,LITERAL_FOR,LITERAL_IF,LITERAL_RETURN,LITERAL_SYNCHRONIZED,LITERAL_TRY,LITERAL_WHILE,LOR,LT,MINUS,MINUS_ASSIGN,MOD,MOD_ASSIGN,NOT_EQUAL,PLUS,PLUS_ASSIGN,QUESTION,SL,SLIST,SL_ASSIGN,SR,SR_ASSIGN,STAR,STAR_ASSIGN,TYPE_EXTENSION_AND" />
+          <param name="allowEmptyMethods" value="true" />
+          <param name="allowEmptyConstructors" value="true" />
+        </coding_rule>
+        <coding_rule class="WriteTagCheck" level="INFO" enabled="false" />
+      </profile>
+    </profiles>
+    <list size="0" />
+  </component>
+</project>
